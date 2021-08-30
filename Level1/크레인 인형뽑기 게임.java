@@ -4,7 +4,7 @@
 
 
 import java.util.*;
-class Solution {
+class crane {
     public int solution(int[][] board, int[] moves) {
         int answer = 0;
         int[] rows = new int[board[0].length];
