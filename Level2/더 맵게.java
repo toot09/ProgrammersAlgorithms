@@ -3,7 +3,7 @@
 // url : https://programmers.co.kr/learn/courses/30/lessons/42626?language=java
 
 
-import java.util.*;
+import java.util.*; 
 //섞은 음식의 스코빌 지수 = 가장 맵지 않은 음식의 스코빌 지수 + (두 번째로 맵지 않은 음식의 스코빌 지수 * 2)
 class themg {
     public int solution(int[] scoville, int K) {
