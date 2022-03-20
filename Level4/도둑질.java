@@ -1,7 +1,7 @@
 class 도둑질 {
     public int solution(int[] money) {
         int len = money.length;
-        int[][] dp = new int[2][len];
+        int[][] dp = new int[2][len]; 
         dp[0][0] = money[0];
         dp[0][1] = money[0];
         dp[1][0] = 0;
